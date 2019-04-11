@@ -1,0 +1,5 @@
+index.js				服务器开始，创建http服务器
+monitor.js				监控各个进程，上报给资源监控模块
+sql.js					数据库的增删改查
+websocketService.js		websocket服务端	(用于网页的连接)
+websocektClients.js		websocket客户端	(用于webservice连接各个进程)
